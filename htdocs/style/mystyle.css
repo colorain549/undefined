@@ -1,0 +1,41 @@
+/* global */
+h1 {
+    color: black;
+    text-align: center;
+}
+
+body {
+    width: 100%;
+    height: 600px;
+    background-color:pink;
+}
+
+/* 主页 index.html */
+#win {
+    text-decoration-line: none;
+    color: white;
+    background-color: skyblue;
+}
+
+#mac {
+    text-decoration-line: none;
+    color: white;
+    background-color:skyblue;
+}
+
+#index_tab_pos {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background: white;
+}
+
+#index_td_style {
+    width: 25%;;
+    background-color:skyblue;
+}
+
+#body_pos {
+    border-top: 100px;
+}
+
